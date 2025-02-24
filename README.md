@@ -1,0 +1,2 @@
+# BRAIN-TUMOUR-SEGMENTAION-AND-PERSONILIZED-PATIENT-COMMUNICATION-USING-NLP
+🚀 Brain Tumor Segmentation &amp; NLP-Based Patient Communication 🧠 Using U-Net for MRI segmentation and NLP for simplifying medical explanations, this project enhances diagnosis and patient interaction. Built with TensorFlow &amp; Flask, it offers interactive visualization and explainable AI. Contributions welcome! ✨ #DeepLearning #MedicalAI
